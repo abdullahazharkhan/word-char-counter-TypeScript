@@ -1,0 +1,3 @@
+```
+npx word-char-counter
+```
